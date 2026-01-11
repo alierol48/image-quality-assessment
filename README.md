@@ -36,7 +36,7 @@ image-quality-assessment/
 │     └─ reject/             # Low-score examples
 │
 ├─ doc/
-│  └─ RESULTS_TR.md          # Turkish results summary for instructor
+│  └─ RESULTS_TR.md          # Turkish results summary
 │
 ├─ requirements.txt
 └─ README.md
